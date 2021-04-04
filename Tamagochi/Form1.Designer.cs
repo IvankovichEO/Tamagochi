@@ -210,7 +210,7 @@
             this.btnSleep.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnSleep.BackgroundImage = global::Tamagochi.Properties.Resources._8;
             this.btnSleep.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnSleep.Location = new System.Drawing.Point(639, 155);
+            this.btnSleep.Location = new System.Drawing.Point(611, 155);
             this.btnSleep.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnSleep.Name = "btnSleep";
             this.btnSleep.Size = new System.Drawing.Size(116, 120);
